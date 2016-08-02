@@ -1,4 +1,4 @@
-int contador = 0;
+volatile int contador = 0;
 int n = contador; 
 
 void setup() {
